@@ -1,0 +1,39 @@
+# Node.js
+node_modules
+npm-debug.log
+yarn-error.log
+package-lock.json
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database
+*.sqlite
+*.db
+*.db-journal
+
+# dotenv environment variables file
+.env
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Production
+build
+dist
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+
+# Ignore uploaded files via multer
+uploads
+
+# VSCode settings
+.vscode/
+
